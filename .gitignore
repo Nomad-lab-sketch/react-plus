@@ -1,0 +1,12 @@
+/node_modules
+/package-lock.json
+
+/dist
+
+/.idea
+*.bat
+*.iml
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
